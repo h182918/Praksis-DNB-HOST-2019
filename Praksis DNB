@@ -1,1 +1,55 @@
+UKE 35
+Startet i praksis hos DNB på tirsdag 27/8, her fikk jeg i første omgang en liten 
+omvisning av lokalene samt en liten gjennomgang av hva teamet jeg ble plassert på
+holder på med. Jeg skal jobbe i BM Puls som er en app DNB holder på å produsere for 
+bedriftskunder. De første to dagene av praksisen har jeg i all hovedsak prøvd å sette
+meg inn i hvordan appen er blitt laget så langt. Jeg har også vært i en del møter med 
+de forskjellige "teamene" innen BM Puls(IOs, android, backend, infra) hvor de har hatt 
+en presentasjon av hvordan de jobber med sine forskjellige oppgaver slik at jeg bedre 
+skal kunne forstå hvordan prosjektet gjennomføres. Utenom dette har jeg drevet med setup
+av egne utviklingsmiljøer og lest på dokumentasjonen til prosjektet.
 
+UKE 36
+Jobbet både tirsdag og onsdag denne uken hvor jeg i all hovedsak forsatte å gjøre meg 
+kjent med arbeidsmetoder og hva jeg skulle jobbe med. Dette skjedde gjennom møter med 
+flere av de forskjellige delene av PULS. Utenom disse møtene jobbet jeg med en del 
+grunnkurs man skal ha når men jobber i DNB. Onsdagen bestod stort sett av et større 
+seminar for bedriftsmarked IT med mange presentasjoner blandt annet fra AWS(Amazon Web Services).
+Var også innom på fredagen for å få med meg avsluttningen på sprinten de hadde hatt de siste
+to ukene. Fikk også klargjort en oppgave jeg skulle begynne med til uke 37 slik at jeg var forberedt på å begynne med dette.
+
+UKE 37
+Begynte denne uken på mandagen for å få startet på den første oppgaven min 
+slik at jeg kunne få litt hjelp til å starte, de to som stort sett skal 
+hjelpe meg å komme inn i oppgavene er kun tilstede denne mandagen. 
+Jobber resten av uken med å lage en AWS Lambda som skal brukes til å 
+opprette notifikasjoner for bedriftsskatt.
+
+UKE 38
+Denne uken fortsatte jeg med å jobbe på lambdaen for skattetrekk og 
+jobbet en del med å lese meg opp på andre deler av prosjektet også.
+Tirsdag og onsdagen gikk dermed til å jobbe med dette. På fredag denne 
+uken var også jeg med å assistere på et kodekurs for ungdomsskoleelever
+som DNB holdt.
+
+UKE 39
+Denne uken var det veldig lite arbeid å gjøre på jobben, dermed startet
+jeg på en del av nettundervisningen til AWS slik at jeg ville ha en
+bedre forståelse av hvordan systemene vi bruker faktisk fungerer.
+Utenom dette var det et seksjonsmøte hvor hele teamet samlet seg og 
+gikk igjennom ting vi gjorde bra/dårlig og hva som eventuellt måtte endres
+og forbedres.
+
+UKE 40
+Denne uken begynte jeg med å lage en lambda for en spesifikk type notifikasjoner i appen.
+En lambda er en del av AWS sine funksjoner og fungerer slik at den venter på en event og 
+når dette skjer(f.eks en email/dato) så vil lambdaen starte igang en eller flere prosesser 
+for å gjøre noe databehanling. I dette tilfellet vil den vente på 6 datoer i året og når den 
+settes igang vil den generere en app-notifikasjon til frontend. 
+
+UKE 41
+I denne uken fortsatte jeg med lambdaen fra forrige uke. Den skal først og fremst 
+bare kjøre i de spesifikke datoene som er fastsatt, men den har også noen mindre 
+events som skal kjøre for en enkelt bruker og ikke alle brukere. Dette kan skje 
+ved en førstegangs innlogging for eksempel. Begynte såvidt med testing av noen
+funksjoner også.
