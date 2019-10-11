@@ -1,1 +1,6 @@
-
+UKE 41
+I denne uken fortsatte jeg med lambdaen fra forrige uke. Den skal først og fremst 
+bare kjøre i de spesifikke datoene som er fastsatt, men den har også noen mindre 
+events som skal kjøre for en enkelt bruker og ikke alle brukere. Dette kan skje 
+ved en førstegangs innlogging for eksempel. Begynte såvidt med testing av noen
+funksjoner også.
