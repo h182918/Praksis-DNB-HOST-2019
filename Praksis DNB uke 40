@@ -1,1 +1,6 @@
-
+UKE 40
+Denne uken begynte jeg med å lage en lambda for en spesifikk type notifikasjoner i appen.
+En lambda er en del av AWS sine funksjoner og fungerer slik at den venter på en event og 
+når dette skjer(f.eks en email/dato) så vil lambdaen starte igang en eller flere prosesser 
+for å gjøre noe databehanling. I dette tilfellet vil den vente på 6 datoer i året og når den 
+settes igang vil den generere en app-notifikasjon til frontend. 
