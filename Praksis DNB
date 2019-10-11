@@ -1,4 +1,5 @@
 UKE 35
+mandag 26.august–søndag 1. september/ 2020
 Startet i praksis hos DNB på tirsdag 27/8, her fikk jeg i første omgang en liten 
 omvisning av lokalene samt en liten gjennomgang av hva teamet jeg ble plassert på
 holder på med. Jeg skal jobbe i BM Puls som er en app DNB holder på å produsere for 
@@ -12,6 +13,7 @@ Dager/timer: Tirsdag/6t   Onsdag/8t   Fredag/3t     totalt:17t
 Total timer: 17t
 
 UKE 36
+mandag 2. –søndag 8. september 2020
 Jobbet både tirsdag og onsdag denne uken hvor jeg i all hovedsak forsatte å gjøre meg 
 kjent med arbeidsmetoder og hva jeg skulle jobbe med. Dette skjedde gjennom møter med 
 flere av de forskjellige delene av PULS. Utenom disse møtene jobbet jeg med en del 
@@ -23,6 +25,7 @@ Dager/timer: Mandag/4t  Tirsdag/8t   Onsdag/8t    totalt:20t
 Total timer: 37t
 
 UKE 37
+mandag 9.–søndag 15. september 2020
 Begynte denne uken på mandagen for å få startet på den første oppgaven min 
 slik at jeg kunne få litt hjelp til å starte, de to som stort sett skal 
 hjelpe meg å komme inn i oppgavene er kun tilstede denne mandagen. 
@@ -32,6 +35,7 @@ Dager/timer: Tirsdag/8t   Onsdag/8t    totalt:16t
 Total timer: 53t
 
 UKE 38
+mandag 16.–søndag 22. september 2019
 Denne uken fortsatte jeg med å jobbe på lambdaen for skattetrekk og 
 jobbet en del med å lese meg opp på andre deler av prosjektet også.
 Tirsdag og onsdagen gikk dermed til å jobbe med dette. På fredag denne 
@@ -41,6 +45,7 @@ Dager/timer: Tirsdag/8t   Onsdag/8t    totalt:16t
 Total timer: 69t
 
 UKE 39
+mandag 23.–søndag 29. september 2019
 Denne uken var det veldig lite arbeid å gjøre på jobben, dermed startet
 jeg på en del av nettundervisningen til AWS slik at jeg ville ha en
 bedre forståelse av hvordan systemene vi bruker faktisk fungerer.
@@ -51,6 +56,7 @@ Dager/timer: Mandag/4t Tirsdag/12t   Onsdag/8t    totalt:24t
 Total timer:93t
 
 UKE 40
+mandag 30. september–søndag 6. oktober 2019
 Denne uken begynte jeg med å lage en lambda for en spesifikk type notifikasjoner i appen.
 En lambda er en del av AWS sine funksjoner og fungerer slik at den venter på en event og 
 når dette skjer(f.eks en email/dato) så vil lambdaen starte igang en eller flere prosesser 
@@ -60,6 +66,7 @@ Dager/timer: Tirsdag/8t   Onsdag/8t    totalt:16t
 Total timer:109t
 
 UKE 41
+mandag 7.–søndag 13. oktober 2019
 I denne uken fortsatte jeg med lambdaen fra forrige uke. Den skal først og fremst 
 bare kjøre i de spesifikke datoene som er fastsatt, men den har også noen mindre 
 events som skal kjøre for en enkelt bruker og ikke alle brukere. Dette kan skje 
