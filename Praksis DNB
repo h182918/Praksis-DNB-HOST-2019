@@ -74,3 +74,14 @@ ved en førstegangs innlogging for eksempel. Begynte såvidt med testing av noen
 funksjoner også.
 Dager/timer: Tirsdag/9t   Onsdag/8t    totalt:17t
 Total timer:126t
+
+UKE 42
+mandag 14.–søndag 20. oktober 2019
+Denne uken avsluttet jeg arbeidet med lambdaen jeg har jobbet med de siste to ukene, 
+jeg brukte mesteparten av tiden denne uken til å skrive og implementere tester til 
+de forskjellige funksjonene. Utenom dette har jeg også abeidet litt med servicene denne
+lambdaen trenger i form av hvilken data som skal sender og i hvilket format. En service 
+er en prossess som alltid kjører og har kontroll på f.eks en database med kontoer. 
+Lambdaen jeg har skrevet benytter seg av 3 forskjellige slike servicer.
+Dager/timer: Tirsdag/8t   Onsdag/9t    totalt:17t
+Total timer:143t
