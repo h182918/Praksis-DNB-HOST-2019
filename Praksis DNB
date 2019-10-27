@@ -85,3 +85,12 @@ er en prossess som alltid kjører og har kontroll på f.eks en database med kont
 Lambdaen jeg har skrevet benytter seg av 3 forskjellige slike servicer.
 Dager/timer: Tirsdag/8t   Onsdag/9t    totalt:17t
 Total timer:143t
+
+UKE 43
+mandag 21.–søndag 27. oktober 2019
+Denne uken har jeg for det meste jobbet med de forkskjellige servicene som tax-lambdaen 
+skal samhandle med, laget nye databaser/endret databaseskjemaene og laget endepunkter 
+som lambdaen kan hente data fra. Utenom dette hadde jeg besøk fra faglærer hos bedriften.
+Onsdagen ble litt kort ettersom jeg var syk og jeg dro hjem etter besøket fra faglærer.
+Dager/timer: Tirsdag/8t   Onsdag/5t    totalt:13t
+Total timer:156t
