@@ -94,3 +94,11 @@ som lambdaen kan hente data fra. Utenom dette hadde jeg besøk fra faglærer hos
 Onsdagen ble litt kort ettersom jeg var syk og jeg dro hjem etter besøket fra faglærer.
 Dager/timer: Tirsdag/8t   Onsdag/5t    totalt:13t
 Total timer:156t
+
+UKE 44
+mandag 28.-søndag 3. November 2019
+Denne uken ferdigstilte jeg alt som trengtes for tax-lambdaen og begynte å skrive om lambdaen 
+som brukes til vat(merverdiavgift). Denne var blitt skrevet for lenge siden og den var mange 
+"feil" i hvordan den var skrevet. Den nye versjonen jeg skal skrive skal holde seg innerfor 
+samme reglene jeg brukte til å skrive tax-lambdaen og trengte da mange nye endepunkter i
+forskjellige servicer samt en del endringer i koden for lambdaen selv.
