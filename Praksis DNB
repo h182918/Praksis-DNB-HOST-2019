@@ -102,3 +102,18 @@ som brukes til vat(merverdiavgift). Denne var blitt skrevet for lenge siden og d
 "feil" i hvordan den var skrevet. Den nye versjonen jeg skal skrive skal holde seg innerfor 
 samme reglene jeg brukte til å skrive tax-lambdaen og trengte da mange nye endepunkter i
 forskjellige servicer samt en del endringer i koden for lambdaen selv.
+Dager/timer: Tirsdag/8t   Onsdag/8t    totalt:16t
+Total timer:172t
+
+UKE 45
+mandag 4.-søndag 11. November 2019
+Denne uken ble jeg ferdig med å omskrive vat lambdaen og har arbeidet med en av de andre i teamet 
+for å sette sammen både vat og tax lambdaen i samme prosjektet. Dette er ikke så ille med tanke på 
+flytting av den faktiske koden og dette vil minske duplikatkode veldig. Det vi måtte bruke mest tid
+på for at dette skal fungere er propertyfilene til AWS. Disse skal fortelle AWS hvordan programmene 
+skal kjøre og hva de har tilgang til(databaser/servicer/porter). Utenom dette var det et arrangement
+på onsdagen som var en internasjonal streaming konferanse om devops. Her var det mange store 
+selskaper(Oracle, Microsoft, USAF, Cisco, Google, Adidas etc) som snakket om hvordan de utførte prosjekter 
+innad i sine bedrifter. 
+Dager/timer: Tirsdag/8t   Onsdag/9t    totalt:17t
+Total timer:189t
