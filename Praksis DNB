@@ -129,3 +129,13 @@ Onsdagen denne uken ble litt kortere enn vanlig siden jeg hadde obligatorisk opp
 Dager/timer: Tirsdag/8t   Onsdag/5t    totalt:13t
 Total timer:202t
 
+UKE 47
+mandag 18.-søndag 24. November 2019
+Denne uken forsatte jeg arbeidet med å skrive om enda en lambda sammen med en nye konsulenten, dette er en lambda som skal
+oppdatere databasene på kontoer ved å hente data fra steder som Visma EAccounting. Denne oppgaven var mye likt som det jeg 
+hadde gjort med de andre lambdaene, men det var en mye mer omfattende jobb å skrive om etter som lambdaen gjorde veldig mye 
+som andre programmer burde ta seg av, dermed måtte logikken flyttes til andre servicer som skulle gjennomføre disse oppgavene 
+og heller sende den nødvendige dataen tilbake. Siden det var en konsulent som jobbet med dette alle de andre dagene jeg ikke 
+var der ble den ferdig iløpet av uke 46 og 47.
+Dager/timer: Tirsdag/8t   Onsdag/8t    totalt:16t
+Total timer:218t
